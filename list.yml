@@ -1,0 +1,8 @@
+list:
+  - first: web
+    midd: mail
+    uid: 2002
+
+  - first: tcp
+    midd: ttcp
+    uid: 2003
